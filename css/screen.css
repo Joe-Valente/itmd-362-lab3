@@ -214,7 +214,6 @@ label {
     font-size: 225%;
     font-family: 'Tilt Warp', cursive;
     display: block;
-    margin: auto;
     width: 100%;
     padding: 20px;
     background-color: rgba(85, 85, 85, 0.75);
@@ -233,7 +232,6 @@ label {
 	background-color: rgba(85, 85, 85, 0.75);
     color: azure;
 	display: block;
-	margin: auto;
 	width: 100%;
 	padding: 20px;
   }
@@ -243,7 +241,6 @@ label {
 	background-color: rgba(190, 190, 190, 0.75);
     color: azure;
 	display: block;
-	margin: auto;
 	width: 100%;
 	padding: 20px;
   }
