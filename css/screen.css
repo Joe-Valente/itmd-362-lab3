@@ -209,6 +209,7 @@ label {
   
   body {
     text-align: center;
+    width: 100%;
   }
 
   h1 {
@@ -252,6 +253,16 @@ label {
 	padding: 20px;
   }
 
+  #input-age-verification input {
+    padding: 5px;
+    display: inline-block;
+  }
+
+  #input-age-verification label {
+    padding: 5px;
+    display: inline-block;
+  }
+
   #input-submit{
 	font-family:'Times New Roman', Times, serif;
     display: block;
@@ -264,7 +275,8 @@ label {
 }
 
 @media only screen and (max-width: 480px) {
-
+  
 }
+
 /* ===== STATE STYLES ======= */
 
