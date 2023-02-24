@@ -245,6 +245,15 @@ label {
 	padding: 20px;
   }
 
+  #input-submit{
+	font-family:'Times New Roman', Times, serif;
+	background-color: rgba(85, 85, 85, 0.75);
+    color: azure;
+	display: block;
+	width: 100%;
+	padding: 20px;
+  }
+
 }
 /* ===== STATE STYLES ======= */
 
