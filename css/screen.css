@@ -213,8 +213,9 @@ label {
 
   h1 {
     font-size: 225%;
+    display: inline-flexbox;
+    margin: 20px;
     font-family: 'Tilt Warp', cursive;
-    display: block;
     width: 100%;
     padding: 20px;
     background-color: rgba(85, 85, 85, 0.75);
@@ -224,33 +225,38 @@ label {
   p {
     font-size: 115%;
     font-family: 'Ubuntu', sans-serif;
+    display: inline-flexbox;
+    margin: 20px;
     padding: 20px;
     background-color: rgba(190, 190, 190, 0.75);
     color: royalblue;
   }
   #input-email{
 	font-family:'Times New Roman', Times, serif;
+    display: inline-flexbox;
+    margin: 20px;
 	background-color: rgba(85, 85, 85, 0.75);
     color: azure;
-	display: block;
 	width: 100%;
 	padding: 20px;
   }
 
   #input-age-verification{
 	font-family:'Times New Roman', Times, serif;
+    display: inline-flexbox;
+    margin: 20px;
 	background-color: rgba(190, 190, 190, 0.75);
     color: azure;
-	display: block;
 	width: 100%;
 	padding: 20px;
   }
 
   #input-submit{
 	font-family:'Times New Roman', Times, serif;
+    display: inline-flexbox;
+    margin: 20px;
 	background-color: rgba(85, 85, 85, 0.75);
     color: azure;
-	display: block;
 	width: 100%;
 	padding: 20px;
   }
