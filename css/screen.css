@@ -214,9 +214,9 @@ label {
   h1 {
     font-size: 150%;
     display: inline-block;
-    margin: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     font-family: 'Tilt Warp', cursive;
-    width: 100%;
     padding: 20px;
     background-color: rgba(85, 85, 85, 0.75);
     color: azure;
@@ -226,7 +226,8 @@ label {
     font-size: 115%;
     font-family: 'Ubuntu', sans-serif;
     display: inline-block;
-    margin: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     padding: 20px;
     background-color: rgba(190, 190, 190, 0.75);
     color: royalblue;
@@ -234,33 +235,34 @@ label {
   #input-email{
 	font-family:'Times New Roman', Times, serif;
     display: inline-block;
-    margin: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 	background-color: rgba(85, 85, 85, 0.75);
     color: azure;
-	width: 100%;
 	padding: 20px;
   }
 
   #input-age-verification{
 	font-family:'Times New Roman', Times, serif;
     display: inline-block;
-    margin: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 	background-color: rgba(190, 190, 190, 0.75);
     color: azure;
-	width: 100%;
 	padding: 20px;
   }
 
   #input-submit{
 	font-family:'Times New Roman', Times, serif;
     display: inline-block;
-    margin: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 	background-color: rgba(85, 85, 85, 0.75);
     color: azure;
-	width: 100%;
 	padding: 20px;
   }
-
 }
+
+media
 /* ===== STATE STYLES ======= */
 
