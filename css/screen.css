@@ -249,7 +249,7 @@ label {
     margin-left: 20px;
     margin-right: 20px;
 	background-color: rgba(190, 190, 190, 0.75);
-    color: azure;
+    color: black;
 	padding: 20px;
   }
 
@@ -274,9 +274,72 @@ label {
   }
 }
 
-@media only screen and (max-width: 480px) {
-  
-}
+@media only screen and (max-width: 480px){
+  body {
+    text-align: center;
+    width: 100%;
+  }
 
+  h1 {
+    font-size: 175%;
+    display: block;
+    margin-left: 14px;
+    margin-right: 14px;
+    font-family: 'Tilt Warp', cursive;
+    padding: 14px;
+    background-color: rgba(85, 85, 85, 0.75);
+    color: azure;
+  }
+
+  p {
+    font-size: 140%;
+    font-family: 'Ubuntu', sans-serif;
+    display: block;
+    margin-left: 14px;
+    margin-right: 14px;
+    padding: 14px;
+    background-color: rgba(190, 190, 190, 0.75);
+    color: royalblue;
+  }
+  #input-email{
+	font-family:'Times New Roman', Times, serif;
+    display: block;
+    margin-left: 14px;
+    margin-right: 14px;
+	background-color: rgba(85, 85, 85, 0.75);
+    color: azure;
+	padding: 14px;
+  }
+
+  #input-age-verification{
+	font-family:'Times New Roman', Times, serif;
+    display: block;
+    margin-left: 14px;
+    margin-right: 14px;
+	background-color: rgba(190, 190, 190, 0.75);
+    color: black;
+	padding: 14px;
+  }
+
+  #input-age-verification input {
+    padding: 3px;
+    display: inline-block;
+  }
+
+  #input-age-verification label {
+    padding: 3px;
+    display: inline-block;
+  }
+
+  #input-submit{
+	font-family:'Times New Roman', Times, serif;
+    display: block;
+    margin-left: 14px;
+    margin-right: 14px;
+	background-color: rgba(85, 85, 85, 0.75);
+    color: azure;
+	padding: 14px;
+  }
+}
 /* ===== STATE STYLES ======= */
 
