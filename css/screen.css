@@ -205,7 +205,7 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 720px) {
   
   body {
     text-align: center;
@@ -274,14 +274,14 @@ label {
   }
 }
 
-@media only screen and (max-width: 480px){
+@media only screen and (max-width: 720px){
   body {
     text-align: center;
     width: 100%;
   }
 
   h1 {
-    font-size: 600%;
+    font-size: 160%;
     display: block;
     margin-left: 14px;
     margin-right: 14px;
@@ -292,7 +292,7 @@ label {
   }
 
   p {
-    font-size: 560%;
+    font-size: 140%;
     font-family: 'Ubuntu', sans-serif;
     display: block;
     margin-left: 14px;
@@ -302,7 +302,7 @@ label {
     color: royalblue;
   }
   #input-email{
-    font-size: 400%;
+    font-size: 130%;
 	font-family:'Times New Roman', Times, serif;
     display: block;
     margin-left: 14px;
@@ -313,7 +313,7 @@ label {
   }
 
   #input-age-verification{
-    font-size: 400%;
+    font-size: 130%;
 	font-family:'Times New Roman', Times, serif;
     display: block;
     margin-left: 14px;
@@ -334,7 +334,7 @@ label {
   }
 
   #input-submit{
-    font-size: 400%;
+    font-size: 130%;
 	font-family:'Times New Roman', Times, serif;
     display: block;
     margin-left: 14px;
