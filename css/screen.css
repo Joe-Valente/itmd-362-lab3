@@ -281,7 +281,7 @@ label {
   }
 
   h1 {
-    font-size: 300%;
+    font-size: 600%;
     display: block;
     margin-left: 14px;
     margin-right: 14px;
@@ -292,7 +292,7 @@ label {
   }
 
   p {
-    font-size: 280%;
+    font-size: 560%;
     font-family: 'Ubuntu', sans-serif;
     display: block;
     margin-left: 14px;
@@ -302,7 +302,7 @@ label {
     color: royalblue;
   }
   #input-email{
-    font-size: 200%;
+    font-size: 400%;
 	font-family:'Times New Roman', Times, serif;
     display: block;
     margin-left: 14px;
@@ -313,7 +313,7 @@ label {
   }
 
   #input-age-verification{
-    font-size: 200%;
+    font-size: 400%;
 	font-family:'Times New Roman', Times, serif;
     display: block;
     margin-left: 14px;
@@ -334,7 +334,7 @@ label {
   }
 
   #input-submit{
-    font-size: 200%;
+    font-size: 400%;
 	font-family:'Times New Roman', Times, serif;
     display: block;
     margin-left: 14px;
